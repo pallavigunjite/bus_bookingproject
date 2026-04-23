@@ -40,7 +40,7 @@ project-folder/
 1. Download or clone the repository:
 
 ```
-git clone https://github.com/your-username/bus-booking-app.git
+git clone https://github.com/pallavigunjite/bus-booking-app.git
 ```
 
 2. Open the project folder
@@ -69,8 +69,11 @@ git clone https://github.com/your-username/bus-booking-app.git
 ---
 
 ## 📸 Screenshot
+<img width="1600" height="753" alt="image" src="https://github.com/user-attachments/assets/6a9970ed-0516-49f8-a9f8-7087885a69dd" />
 
-(Add screenshot here if needed)
+---
+
+<img width="1600" height="761" alt="image" src="https://github.com/user-attachments/assets/459babcf-73a4-4be3-85dc-3e325f466f08" />
 
 ---
 
@@ -92,7 +95,5 @@ pallavi gunjite
 ## 📄 License
 
 This project is for educational purposes only.
-<img width="1600" height="753" alt="image" src="https://github.com/user-attachments/assets/6a9970ed-0516-49f8-a9f8-7087885a69dd" />
 
----
-<img width="1600" height="761" alt="image" src="https://github.com/user-attachments/assets/459babcf-73a4-4be3-85dc-3e325f466f08" />
+
